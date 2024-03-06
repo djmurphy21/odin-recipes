@@ -1,2 +1,2 @@
 # odin-recipes
-# I am following the Odin project and self teaching myself to code.
+I am following the Odin project and self teaching myself to code.
